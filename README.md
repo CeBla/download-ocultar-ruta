@@ -7,7 +7,7 @@ Descargar una imagen y ocultar ruta de acceso directo
 
 |-pdf
     |-readme.pdf
-    
+.htaccess    
 index.php
 
 <?php
